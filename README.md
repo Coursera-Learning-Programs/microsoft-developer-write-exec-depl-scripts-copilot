@@ -1,1 +1,0 @@
-# microsoft-developer-write-exec-depl-scripts-copilot
